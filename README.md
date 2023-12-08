@@ -3,8 +3,8 @@
   <h1 align="center">Tic-Tac-Tow Game</h1>
 
   <p align="center">
-    < add Tic-Tac-Toe Game in Python that plays against users on different difficulties>
-    < add !!!created in my freshman year of college, the project does not apply the standars OOP styling!!!>
+    add Tic-Tac-Toe Game in Python that plays against users on different difficulties
+    add !!!created in my freshman year of college, the project does not apply the standars OOP styling!!!
   </p>
 </p>
 
