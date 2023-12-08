@@ -6,7 +6,7 @@
     Tic-Tac-Toe Game in Python that plays against users on different difficulties
   </p>
   <p align="center">
-    !!!created in my freshman year of college, the project does not apply the standars OOP styling!!!
+    !!!created in my first semester of college, the project does not apply the standar OOP styling!!!
   </p>
 </p>
 
