@@ -6,7 +6,7 @@
     Tic-Tac-Toe Game in Python that plays against users on different difficulties
   </p>
   <p align="center">
-    !!!created in my first semester of college, the project does not apply the standar OOP styling!!!
+    !!!Created in my first semester of college, the project does not apply the standard OOP styling!!!
   </p>
 </p>
 
@@ -25,7 +25,23 @@
 
 ## About The Project
 
-this goes here
+!!! This project was created in my first semester of college, therefore it does not apply the standard OOP styling !!!     
+
+Our project mimics a game of Tic-Tac-Tow that players can play against the computer or against each other. The easy mode is designed to make a lot of mistakes, the medium mode is designed to make few mistakes and the hard mode is designed to rarely make a mistake, making it really hard to win against. The Program also has the option of checking the history and evolution of the game in time.     
+
+The Tic-Tac-Toe Game has 3 options:    
+1. Difficulty:
+     a. Easy Mode    
+     b. Medium Mode    
+     c. Hard Mode    
+     d. Multiplayer (2 players at the same computer needed)
+     e. Quit (returns to the previous screen)
+2. Training (a series of game scenarios)
+3. Origin of Tic-Tac-Toe (brief history of the game)
+     a. Origins
+     b. Evolution
+     c. Quit (returns to the previous screen)
+4. Quit (closes the program)
 
 ## Getting Started
 
@@ -34,7 +50,6 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 * [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher
-* [Maven 3.6](https://maven.apache.org/download.cgi) or higher
 
 ### Installation
 
