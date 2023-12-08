@@ -17,10 +17,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Running](#running)
-* [Modules](#modules)
 * [Notes](#notes)
 * [Evaluation](#evaluation)
-* [Extras](#extras)
 
 ## About The Project
 
@@ -60,20 +58,6 @@ To get a local copy up and running follow these simple steps.
 Once running the user needs to type a number according to the action desired from the menus    
 The program has instructions throughout the game    
 
-## Modules
-
-<!--
-Describe each module in the project, what their purpose is and how they are used in your program. Try to aim for at least 100 words per module.
--->
-
-## Design
-
-<!--
-List all the design patterns you used in your program. For every pattern, describe the following:
-- Where it is used in your application.
-- What benefit it provides in your application. Try to be specific here. For example, don't just mention a pattern improves maintainability, but explain in what way it does so.
--->
-
 ## Evaluation
 
 The program has good stability due to the error encountering solutions implemented. The user must insert only values accepted by the program at the current stage of the game. Any other input would throw an error and ask the user to try again.       
@@ -84,8 +68,6 @@ I would have done things differently if I were to recreate the project. I would 
 <!--
 Discuss the stability of your implementation. What works well? Are there any bugs? Is everything tested properly? Are there still features that have not been implemented? Also, if you had the time, what improvements would you make to your implementation? Are there things which you would have done completely differently? Try to aim for at least 250 words.
 -->
-
-## Extras
 
 <!--
 If you implemented any extras, you can list/mention them here.
