@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple steps.
 Once running the user needs to type a number according to the action desired from the menus    
 The program has instructions throughout the game    
 
-##Notes   
+## Notes   
 
 !!! This project was created in my first semester of college, therefore it does not apply the standard OOP styling !!!     
 
