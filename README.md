@@ -58,6 +58,10 @@ To get a local copy up and running follow these simple steps.
 Once running the user needs to type a number according to the action desired from the menus    
 The program has instructions throughout the game    
 
+##Notes   
+
+!!! This project was created in my first semester of college, therefore it does not apply the standard OOP styling !!!     
+
 ## Evaluation
 
 The program has good stability due to the error encountering solutions implemented. The user must insert only values accepted by the program at the current stage of the game. Any other input would throw an error and ask the user to try again.       
