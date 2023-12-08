@@ -25,7 +25,7 @@
 
 ## About The Project
 
-<!-- Add short description about the project here -->
+this goes here
 
 ## Getting Started
 
