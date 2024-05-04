@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher
+* [Python 3.12.3](https://www.python.org/downloads/) or higher
 
 ### Installation
 
